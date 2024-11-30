@@ -157,10 +157,10 @@ Part B. Create a log report structure
 
 
 **LOG REPORT**
-
 **PART B.1**
-![image](https://github.com/user-attachments/assets/d20e4075-7acd-417a-bcba-814cf4c47435)
-![image](https://github.com/user-attachments/assets/2e9f44da-0723-4896-9515-9ca77e9c1118)
+
+
+![image](https://github.com/user-attachments/assets/d20e4075-7acd-417a-bcba-814cf4c47435)![image](https://github.com/user-attachments/assets/2e9f44da-0723-4896-9515-9ca77e9c1118)
 
 
 
