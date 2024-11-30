@@ -159,82 +159,10 @@ Part B. Create a log report structure
 **LOG REPORT**
 
 **PART B.1**
+![image](https://github.com/user-attachments/assets/d20e4075-7acd-417a-bcba-814cf4c47435)
+![image](https://github.com/user-attachments/assets/2e9f44da-0723-4896-9515-9ca77e9c1118)
 
-+------------+--------------------------------------------+------------+
-| **NUMBER** | **INSTRUCTION**                            | **RESULT** |
-+============+============================================+============+
-| **1**      | **Open File Explorer:** Click the File     | **C        |
-|            | Explorer icon on your desktop or press the | OMPLETED** |
-|            | Windows key + E.                           |            |
-+------------+--------------------------------------------+------------+
-| **2**      | **Navigate to your Documents folder:**     | **C        |
-|            | This is usually the default location for   | OMPLETED** |
-|            | user files.                                |            |
-+------------+--------------------------------------------+------------+
-| **3**      | **Create a new folder:** Right-click in an | **C        |
-|            | empty space, select \"New,\" then          | OMPLETED** |
-|            | \"Folder.\" Name it \"Lab1_Windows.\"      |            |
-+------------+--------------------------------------------+------------+
-| **4**      | **Create a text file:** Right-click in the | **C        |
-|            | \"Lab1_Windows\" folder, select \"New,\"   | OMPLETED** |
-|            | then \"Text Document.\" Rename it to       |            |
-|            | \"info.txt.\"                              |            |
-+------------+--------------------------------------------+------------+
-| **5**      | **Open the text file:** Double-click the   | **C        |
-|            | \"info.txt\" file to open it in Notepad.   | OMPLETED** |
-+------------+--------------------------------------------+------------+
-| **6**      | **Type some text:** Write a short          | **C        |
-|            | paragraph about yourself or the purpose of | OMPLETED** |
-|            | the file.                                  |            |
-+------------+--------------------------------------------+------------+
-| **7**      | **Save the file:** Close the Notepad       | **C        |
-|            | window and save the changes.               | OMPLETED** |
-+------------+--------------------------------------------+------------+
-| **8**      | **Create a subfolder:** Create a new       | **C        |
-|            | folder inside \"Lab1_Windows\" called      | OMPLETED** |
-|            | \"Data.\"                                  |            |
-+------------+--------------------------------------------+------------+
-| **9**      | **Copy the text file:** Copy the           | **C        |
-|            | \"info.txt\" file to the \"Data\"          | OMPLETED** |
-|            | subfolder.                                 |            |
-+------------+--------------------------------------------+------------+
-| **10**     | **Rename the copied file:** Rename the     | **C        |
-|            | copied file to \"data.txt.                 | OMPLETED** |
-+------------+--------------------------------------------+------------+
-| **11**     | Create a folder named \"LabFiles\" with    | **C        |
-|            | subfolders for each file type. Use the     | OMPLETED** |
-|            | internet for the resources of the files    |            |
-|            | listed below.                              |            |
-+------------+--------------------------------------------+------------+
-| **12**     | **Check file properties:** Right-click on  | **C        |
-|            | the \"info.txt\" file and select           | OMPLETED** |
-|            | \"Properties.\" Explore the General,       |            |
-|            | Details, and Security tabs to understand   |            |
-|            | file attributes like creation date, size,  |            |
-|            | and read-only status.                      |            |
-+------------+--------------------------------------------+------------+
-| **13**     | **Change file attributes:** Try changing   | **C        |
-|            | the file attributes (e.g., read-only,      | OMPLETED** |
-|            | hidden) using the Properties dialog.       |            |
-|            | Observe the changes in File Explorer.      |            |
-+------------+--------------------------------------------+------------+
-| **14**     | **Share the folder:** Right-click on the   | **FAILED** |
-|            | \"Lab1_Windows\" folder, select            |            |
-|            | \"Properties,\" and then the \"Sharing\"   | **(Can't   |
-|            | tab. Share the folder with a specific user | find       |
-|            | or group, setting appropriate permissions  | 'Share'    |
-|            | (e.g., Read, Write, Full control)          | tab)**     |
-+------------+--------------------------------------------+------------+
-| **15**     | **Create an archive:** Use WinRAR or 7-Zip | **C        |
-|            | to create a compressed archive of the      | OMPLETED** |
-|            | \"Lab1_Windows\" folder.                   |            |
-+------------+--------------------------------------------+------------+
-| **16**     | **Extract an archive:** Create a new       | **C        |
-|            | folder, then extract the created archive   | OMPLETED** |
-|            | into it.                                   |            |
-|            |                                            |            |
-|            | Part B. Create a log report structure      |            |
-+------------+--------------------------------------------+------------+
+
 
 **PART B.2**
 
