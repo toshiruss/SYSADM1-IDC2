@@ -160,89 +160,16 @@ Part B. Create a log report structure
 **PART B.1**
 
 
-![image](https://github.com/user-attachments/assets/d20e4075-7acd-417a-bcba-814cf4c47435)![image](https://github.com/user-attachments/assets/2e9f44da-0723-4896-9515-9ca77e9c1118)
+![image](https://github.com/user-attachments/assets/d20e4075-7acd-417a-bcba-814cf4c47435)![image](https://github.com/user-attachments/assets/2e9f44da-0723-4896-9515-9ca77e9c1118)![image](https://github.com/user-attachments/assets/86f0c00d-2399-411a-b275-096b1e8d2ff3)![image](https://github.com/user-attachments/assets/2c922301-0cfe-4b22-8139-a3122072a015)
+
+
 
 
 
 **PART B.2**
 
-+-------+-------+-------+----------------+-------------+-------------+
-| File  | File  | File  | Creation Date  | Modified    | Accessed    |
-| Name  | Type  | Size  |                | Date        |             |
-+=======+=======+=======+================+=============+=============+
-| inf   | Text  | 323   | Thursday, ‎22   | Thursday,   | ‎Today, ‎22   |
-| o.txt | Doc   | bytes | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | ument | (323  |                | ‎2024,       | ‎2024, ‏‎41    |
-|       |       | b     | ‏‎9:14:06 am     |             | minutes ago |
-|       |       | ytes) |                | ‏‎9:14:06 am  |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| dat   | Text  | 323   | ‎Thursday, ‎22   | Thursday,   | ‎Today, ‎22   |
-| a.txt | Doc   | bytes | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | ument | (323  | ‏‎9:16:56 am     | ‎2024,       | ‎2024, ‏‎44    |
-|       |       | b     |                | ‏‎9:16:56 am  | minutes ago |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| larg  | Text  | 200   | Thursday, ‎22   | ‎Thursday,   | Today, ‎22   |
-| e_tex | Doc   | MB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-| t.txt | ument | (2    | ‏‎8:36:38 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 09,71 |                | ‏‎8:36:38 am  | hours ago   |
-|       |       | 5,205 |                |             |             |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| smal  | Text  | 20.0  | Thursday, ‎22   | Thursday,   | Today, ‎22   |
-| l_tex | Doc   | MB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-| t.txt | ument | (     | ‏‎8:37:32 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 20,97 |                | ‏‎8:37:32 am  | hours ago   |
-|       |       | 1,548 |                |             |             |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| cod   | C++   | 94    | ‎Thursday, ‎22   | ‎Thursday,   | ‎Today, ‎22   |
-| e.cpp | S     | bytes | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | ource | (94   | ‏‎8:38:54 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       | File  | b     |                | ‏‎8:38:54 am  | hours ago   |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| image | Imag  | 46.8  | Thursday, ‎22   | Thursday,   | Today, ‎22   |
-| 1.jpg | e.jpg | KB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | File  | (4    | ‏‎8:40:52 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 7,995 |                | ‏‎8:40:52 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| image | Imag  | 183   | ‎Thursday, ‎22   | ‎Thursday,   | ‎Today, ‎22   |
-| 2.png | e.png | KB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | file  | (18   | ‏‎8:46:16 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 7,935 |                | ‏‎8:46:16 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| image | Imag  | 1.56  | Thursday, ‎22   | ‎Thursday,   | ‎Today, ‎22   |
-| 3.bmp | e.bmp | MB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | file  | (1,63 | ‏‎8:49:12 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 8,538 |                | ‏‎8:49:12 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| son   | Audi  | 7.11  | ‎Thursday, ‎22   | Thursday,   | ‎Today, ‎22   |
-| g.mp3 | o.mp3 | MB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | file  | (7,46 | ‏‎8:52:20 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 0,397 |                | ‏‎8:52:20 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| speec | Audi  | 926   | ‎Thursday, ‎22   | ‎Thursday,   | Today, ‎22   |
-| h.wav | o.wav | KB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | file  | (94   | ‏‎8:55:24 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 8,290 |                | ‏‎8:55:24 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
-| cli   | Vide  | 3.87  | ‎Thursday, ‎22   | ‎Thursday,   | Today, ‎22   |
-| p.mp4 | o.mp4 | MB    | ‎August ‎2024,   | ‎22 ‎August   | ‎August      |
-|       | file  | (4,06 | ‏‎8:57:26 am     | ‎2024,       | ‎2024, ‏‎2     |
-|       |       | 6,020 |                | ‏‎8:57:26 am  | hours ago   |
-|       |       | b     |                |             |             |
-|       |       | ytes) |                |             |             |
-+-------+-------+-------+----------------+-------------+-------------+
+![image](https://github.com/user-attachments/assets/2b4c6c12-bdf1-467b-b8b8-86e76739487c)![image](https://github.com/user-attachments/assets/6fc65409-99e2-4e60-8527-f15a66ec9a21)![image](https://github.com/user-attachments/assets/bb81783c-cac6-4c4b-85a8-ca5b1e73987b)![image](https://github.com/user-attachments/assets/24929b5a-820a-4bcd-b244-e5c07a329221)
+
+
+
+
