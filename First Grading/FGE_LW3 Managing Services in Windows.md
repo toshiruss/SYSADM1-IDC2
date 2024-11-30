@@ -1,18 +1,5 @@
-+----------------------------------+-----------------------------+----+
-| ![](vertopal_                    |                             |    |
-| 3979900a992f4035abb3509489ce2052 |                             |    |
-| /media/image1.png){width="2.4in" |                             |    |
-| height="0.5881944444444445in"}   |                             |    |
-|                                  |                             |    |
-| SCHOOL OF INFORMATION AND        |                             |    |
-| TECHNOLOGY                       |                             |    |
-+----------------------------------+-----------------------------+----+
-| NAME: VICENTE, RUSSEL C.         | DATE PERFORMED: 29 AUGUST   |    |
-|                                  | 2024                        |    |
-+----------------------------------+-----------------------------+----+
-| Section: IDC2                    | DATE SUBMITTED: 29 AUGUST   |    |
-|                                  | 2024                        |    |
-+----------------------------------+-----------------------------+----+
+![image](https://github.com/user-attachments/assets/fa9ac964-5768-4a7d-887b-b0295a51fbd7)
+
 
 # SYSADM1 -- Managing Services in Windows
 
