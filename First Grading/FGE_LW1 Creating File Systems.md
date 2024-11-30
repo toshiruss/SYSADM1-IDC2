@@ -1,18 +1,5 @@
-+----------------------------------+----------------------------+-----+
-| ![](vertopal_                    |                            |     |
-| 4623a911c5fa41dc89808d0cc0b908ca |                            |     |
-| /media/image1.png){width="2.4in" |                            |     |
-| height="0.5881944444444445in"}   |                            |     |
-|                                  |                            |     |
-| SCHOOL OF INFORMATION AND        |                            |     |
-| TECHNOLOGY                       |                            |     |
-+----------------------------------+----------------------------+-----+
-| NAME: VICENTE, RUSSEL C.         | DATE PERFORMED: 22 AUGUST  | 50/ |
-|                                  | 2024                       | 50  |
-+----------------------------------+----------------------------+-----+
-| Section: IDC2                    | DATE SUBMITTED: 22 AUGUST  |     |
-|                                  | 2024                       |     |
-+----------------------------------+----------------------------+-----+
+![image](https://github.com/user-attachments/assets/28a70ff1-0510-4705-b688-4b9f1779148b)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
