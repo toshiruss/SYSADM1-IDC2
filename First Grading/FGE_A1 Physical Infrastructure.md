@@ -1,18 +1,5 @@
-+----------------------------------+----------------------------+-----+
-| ![](vertopal_                    |                            |     |
-| 275217b7679e48ce956d1e2686602c53 |                            |     |
-| /media/image1.png){width="2.4in" |                            |     |
-| height="0.5881944444444445in"}   |                            |     |
-|                                  |                            |     |
-| SCHOOL OF INFORMATION AND        |                            |     |
-| TECHNOLOGY                       |                            |     |
-+----------------------------------+----------------------------+-----+
-| NAME: VICENTE, RUSSEL C.         | DATE PERFORMED: 29 AUGUST  |     |
-|                                  | 2024                       |     |
-+----------------------------------+----------------------------+-----+
-| Section: IDC2                    | DATE SUBMITTED: 29 AUGUST  |     |
-|                                  | 2024                       |     |
-+----------------------------------+----------------------------+-----+
+![image](https://github.com/user-attachments/assets/a93b8909-2bac-4486-b479-de99a54d5d3d)
+
 
 # SYSADM1 -- Physical Infrastructure
 
