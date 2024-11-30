@@ -14,66 +14,65 @@
 1.  **Open File Explorer:** Click the File Explorer icon on your desktop
     or press the Windows key + E.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image2.png){width="5.4494619422572175in"
-> height="4.069728783902012in"}
+![image](https://github.com/user-attachments/assets/bc3b4da5-0c9d-401b-bb9f-f2508aa4c5ed)
+
 
 2.  **Navigate to your Documents folder:** This is usually the default
     location for user files.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image3.png){width="4.589490376202975in"
-> height="2.968950131233596in"}
+![image](https://github.com/user-attachments/assets/221e9bf6-21dc-4234-ab4e-8bbb3a08c3f6)
+
 
 3.  **Create a new folder:** Right-click in an empty space, select
     \"New,\" then \"Folder.\" Name it \"Lab1_Windows.\"
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image4.png){width="7.027083333333334in"
-> height="0.8493055555555555in"}
+![image](https://github.com/user-attachments/assets/5bccb8bf-c949-44f0-b7b7-37d115ac5856)
+
 
 4.  **Create a text file:** Right-click in the \"Lab1_Windows\" folder,
     select \"New,\" then \"Text Document.\" Rename it to \"info.txt.\"
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image5.png){width="7.027083333333334in"
-> height="0.5618055555555556in"}
+![image](https://github.com/user-attachments/assets/4aa02e8a-d6d0-4dfb-956a-d88e7f1b2c8b)
+
 
 5.  **Open the text file:** Double-click the \"info.txt\" file to open
     it in Notepad.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image6.png){width="3.538500656167979in"
-> height="3.509825021872266in"}
+![image](https://github.com/user-attachments/assets/af607ffa-5ba4-444b-88db-5407d03f3e4d)
+
 
 6.  **Type some text:** Write a short paragraph about yourself or the
     purpose of the file.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image7.png){width="7.027083333333334in"
-> height="2.9402777777777778in"}
+![image](https://github.com/user-attachments/assets/c3742a8e-706e-4ee4-99ab-fd6fb3f3bd32)
+
 
 7.  **Save the file:** Close the Notepad window and save the changes.
-    ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image8.png){width="7.027083333333334in"
-    height="0.9972222222222222in"}
+   ![image](https://github.com/user-attachments/assets/2e009f40-0bde-4a3b-9d0c-e1bd4cf18134)
+
 
 8.  **Create a subfolder:** Create a new folder inside \"Lab1_Windows\"
     called \"Data.\"
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image9.png){width="7.027083333333334in"
-> height="1.1069444444444445in"}
+![image](https://github.com/user-attachments/assets/fc4e8f34-8612-4474-9291-79183321a3dd)
+
 
 9.  **Copy the text file:** Copy the \"info.txt\" file to the \"Data\"
     subfolder.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image10.png){width="7.027083333333334in"
-> height="2.672222222222222in"}
+![image](https://github.com/user-attachments/assets/38abbd74-ad0e-4d2c-a026-f7f95d33f5bd)
+
 
 10. **Rename the copied file:** Rename the copied file to \"data.txt.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image11.png){width="6.761360454943132in"
-> height="0.6563418635170604in"}
+![image](https://github.com/user-attachments/assets/a6c1e1df-739c-49c4-9e0c-74c31bdd793f)
+
 
 11. Create a folder named \"LabFiles\" with subfolders for each file
     type. Use the internet for the resources of the files listed below.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image12.png){width="6.959304461942257in"
-> height="1.3022648731408575in"}
->
+![image](https://github.com/user-attachments/assets/8d45eb44-5ed2-4634-85ee-b4b6f86ac5e2)
+
 > **LabFiles**
 
 1.  **Text**
@@ -84,8 +83,8 @@
 
     3.  code.cpp
 
-![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image13.png){width="5.516686351706037in"
-height="1.7778357392825896in"}
+![image](https://github.com/user-attachments/assets/efeec972-ea04-47f5-8c31-05de0ab894ee)
+
 
 2.  **Images**
 
@@ -95,8 +94,8 @@ height="1.7778357392825896in"}
 
     3.  image3.bmp
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image14.png){width="5.200154199475065in"
-> height="1.641910542432196in"}
+![image](https://github.com/user-attachments/assets/169f9815-1743-4951-805b-3df04acd67ec)
+
 
 3.  **Audio**
 
@@ -104,24 +103,23 @@ height="1.7778357392825896in"}
 
     2.  speech.wav
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image15.png){width="5.470452755905511in"
-> height="1.69373687664042in"}
+![image](https://github.com/user-attachments/assets/0c97970a-8081-40b1-8ebd-1a49c247ae86)
+
 
 4.  **Video**
 
     1.  clip.mp4
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image16.png){width="5.023051181102362in"
-> height="1.5547189413823272in"}
+![image](https://github.com/user-attachments/assets/e8027056-b160-4132-a8ca-bb3c8baa82b3)
+
 
 12. **Check file properties:** Right-click on the \"info.txt\" file and
     select \"Properties.\" Explore the General, Details, and Security
     tabs to understand file attributes like creation date, size, and
     read-only status.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image17.png){width="4.60078302712161in"
-> height="4.07291447944007in"}
->
+![image](https://github.com/user-attachments/assets/0d5d874b-3e02-461f-b880-1a2bc1d270dc)
+
 > **The creation date of the file depends on the time that it was
 > created. Also, the size of the file depends on how many characters are
 > inside the file. A read-only status on a.txt file means you can open
@@ -134,9 +132,8 @@ height="1.7778357392825896in"}
     read-only, hidden) using the Properties dialog. Observe the changes
     in File Explorer.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image18.png){width="4.4008114610673665in"
-> height="3.763239282589676in"}
->
+![image](https://github.com/user-attachments/assets/2fa93977-7ef5-4a68-b159-bfc853f1127e)
+
 > **When I click the hidden attribute, the file will vanish and if I
 > click the read-only attribute, the file will restore.**
 
@@ -148,16 +145,16 @@ height="1.7778357392825896in"}
 15. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
     archive of the \"Lab1_Windows\" folder.
 
-> ![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image19.png){width="7.027083333333334in"
-> height="2.3743055555555554in"}
+![image](https://github.com/user-attachments/assets/4c965a64-e6c2-4689-8a3a-100f261c84d4)
+
+
 
 16. **Extract an archive:** Create a new folder, then extract the
     created archive into it.
 
 Part B. Create a log report structure
+![image](https://github.com/user-attachments/assets/ec65c86d-59a3-41cc-ace9-c5472595e882)
 
-![](vertopal_4623a911c5fa41dc89808d0cc0b908ca/media/image20.png){width="7.027083333333334in"
-height="2.0243055555555554in"}
 
 **LOG REPORT**
 
