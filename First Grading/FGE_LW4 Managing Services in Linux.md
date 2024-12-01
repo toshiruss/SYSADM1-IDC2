@@ -24,49 +24,47 @@ SS:
 
 ![image](https://github.com/user-attachments/assets/cbdfbd4e-ca0e-41a4-878c-db72cb73bc37)
 
+![image](https://github.com/user-attachments/assets/bbf7f072-e126-4014-a840-c93cac803e9c)
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image4.png){width="7.027083333333334in"
-height="5.022222222222222in"}
 
 2.  Start the Bluetooth service using the systemctl command.
 
 Ex. sudo systemctl start httpd
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image5.png){width="4.359946412948381in"
-height="1.1875in"}
+![image](https://github.com/user-attachments/assets/81984c19-431b-4557-9172-26f6191749c9)
 
 3.  Check the status of the Bluetooth service. What is its status?
 
 **Active**
 
 SS:
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image6.png){width="7.027083333333334in"
-height="1.7201388888888889in"}
+![image](https://github.com/user-attachments/assets/9f24b868-2ea4-4103-a1a3-0ba5a90ebc3e)
+
 
 4.  Check the status of the cups services. Since when was it running?
 
 **Since Sept 12 01:08:12**
 
 SS:
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image7.png){width="7.027083333333334in"
-height="3.4298611111111112in"}
+![image](https://github.com/user-attachments/assets/27197b0a-3942-4c1d-ac27-9abb00717c9a)
+
 
 5.  Stop cups services.
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image8.png){width="7.027083333333334in"
-height="0.8097222222222222in"}
+![image](https://github.com/user-attachments/assets/15f97ef0-80af-4945-a61c-1abcd565d7c0)
+
 
 6.  Verify if the service was stopped.
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image9.png){width="7.027083333333334in"
-height="3.6590277777777778in"}
+![image](https://github.com/user-attachments/assets/c9c073be-01c3-4d6d-bd8c-2f737add3d71)
+
 
 7.  Restart the cups services
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image10.png){width="5.46951334208224in"
-height="0.2396172353455818in"}
+![image](https://github.com/user-attachments/assets/d7171059-599e-444c-8268-907eeeb0f48b)
+
 
 8.  Verify if the service was restarted.
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image11.png){width="7.027083333333334in"
-height="3.6305555555555555in"}
+![image](https://github.com/user-attachments/assets/fe5161da-6ed6-439e-a72e-3bfecfe68831)
+
