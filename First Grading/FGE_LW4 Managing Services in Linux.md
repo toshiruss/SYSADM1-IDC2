@@ -1,18 +1,5 @@
-+----------------------------------+----------------------------+-----+
-| ![](vertopal_                    |                            |     |
-| aa659dc81d1142608a5f86fe86f579e8 |                            |     |
-| /media/image1.png){width="2.4in" |                            |     |
-| height="0.5881944444444445in"}   |                            |     |
-|                                  |                            |     |
-| SCHOOL OF INFORMATION AND        |                            |     |
-| TECHNOLOGY                       |                            |     |
-+----------------------------------+----------------------------+-----+
-| NAME: VICENTE, RUSSE C.          | DATE PERFORMED: 12         |     |
-|                                  | SEPTEMBER 2024             |     |
-+----------------------------------+----------------------------+-----+
-| Section: IDC2                    | DATE SUBMITTED:12          |     |
-|                                  | SEPTEMBER 2024             |     |
-+----------------------------------+----------------------------+-----+
+![image](https://github.com/user-attachments/assets/bde9b939-afd0-482b-bd31-ef516f39d712)
+
 
 # SYSADM1 -- Managing Services in Linux
 
