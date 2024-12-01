@@ -17,24 +17,13 @@ Complete this lab as follows:
 List down active and inactive services in the table below. Provide five
 (5) services for each column.
 
-  -----------------------------------------------------------------------
-  **Active**                             **Inactive**
-  -------------------------------------- --------------------------------
-  alsa-utils                             anacron
+![image](https://github.com/user-attachments/assets/c9bcb8ff-4b6b-4bbd-8814-fc1608cc76c3)
 
-  apport                                 apparmor
-
-  cron                                   bluetooth
-
-  cups                                   console-setup.sh
-
-  dbus                                   cryptdisks
-  -----------------------------------------------------------------------
 
 SS:
 
-![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image3.png){width="7.027083333333334in"
-height="4.946527777777778in"}
+![image](https://github.com/user-attachments/assets/cbdfbd4e-ca0e-41a4-878c-db72cb73bc37)
+
 
 ![](vertopal_aa659dc81d1142608a5f86fe86f579e8/media/image4.png){width="7.027083333333334in"
 height="5.022222222222222in"}
