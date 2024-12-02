@@ -28,20 +28,17 @@ manages secure logins through ticket-based access.
 *sudo apt update && sudo apt upgrade --y*
 
 *Client:*
+![image](https://github.com/user-attachments/assets/c5ed681a-db42-4267-8d26-2a0060c01db5)
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image2.png){width="5.688293963254593in"
-height="2.4795122484689416in"}
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image3.png){width="5.6570395888014in"
-height="4.781917104111986in"}
+![image](https://github.com/user-attachments/assets/ebcdfa0e-8305-4791-9b98-0af7903a7d82)
 
 *Server*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image4.png){width="7.027083333333334in"
-height="3.595833333333333in"}
+![image](https://github.com/user-attachments/assets/8a036e6d-a7f1-4c6c-8ce3-195b1cae93ab)
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image5.png){width="7.027083333333334in"
-height="4.6375in"}
+![image](https://github.com/user-attachments/assets/cf78e082-8359-4c5a-ab00-f7040f3c162e)
+
 
 *Based upon my observation, the two machines (client and server) have
 different errors wherein the Client some of the packages didn't install
@@ -65,11 +62,9 @@ still error but I don't understand what it is.*
 
 *sudo apt install krb5-user --y*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image6.png){width="7.027083333333334in"
-height="4.032638888888889in"}
+![image](https://github.com/user-attachments/assets/c5cb21dc-add5-4dea-a9c0-504c624db6d7)
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image7.png){width="7.027083333333334in"
-height="4.221527777777778in"}
+![image](https://github.com/user-attachments/assets/705480aa-3564-4f1d-8a9b-cd6cac61f061)
 
 -   During installation, when prompted, enter the Kerberos realm you
     plan to set up, e.g., MYLAB.LOCAL.
@@ -104,9 +99,8 @@ admin_server = \<VM1_IP_or_hostname\>
 }
 
 -   Save and close the file (Ctrl+X, then Y, and Enter to confirm).
+![image](https://github.com/user-attachments/assets/0ede1f88-8316-4ebc-b922-5c4dc5866040)
 
-> ![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image8.png){width="4.943522528433946in"
-> height="4.4483956692913385in"}
 
 2.  **Initialize the Kerberos Database:**
 
@@ -116,8 +110,8 @@ admin_server = \<VM1_IP_or_hostname\>
 
 *sudo krb5_newrealm*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image9.png){width="4.615227471566055in"
-height="0.8751224846894138in"}
+![image](https://github.com/user-attachments/assets/06c5306c-16c2-4b8a-bef7-d28c857180dc)
+
 
 *Since there are still errors, I can't execute some commands because I
 think there are problems upon my installation process. It might be the
@@ -140,8 +134,8 @@ other packages were not installed well.*
 
 *sudo systemctl enable krb5-admin-server*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image10.png){width="6.084181977252843in"
-height="3.125436351706037in"}
+![image](https://github.com/user-attachments/assets/ee62cec0-c56b-4f7a-aa62-da98e4269744)
+
 
 **Step 3: Set Up a Kerberos User Principal**
 
@@ -156,8 +150,7 @@ height="3.125436351706037in"}
 
 -   Set a password for testuser
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image11.png){width="7.027083333333334in"
-height="0.4201388888888889in"}
+![image](https://github.com/user-attachments/assets/7588d857-eb6f-4f7f-85b5-37fc4e2ba58c)
 
 2.  **Verify the User Principal:**
 
@@ -167,8 +160,8 @@ height="0.4201388888888889in"}
 
 *sudo kadmin.local -q \"listprincs\"*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image12.png){width="5.354913604549432in"
-height="0.44797900262467194in"}
+![image](https://github.com/user-attachments/assets/67dd6f8c-3928-44ec-89c6-843be73628e5)
+
 
 **Step 4: Configure the Kerberos Client (VM2)**
 
@@ -183,11 +176,7 @@ height="0.44797900262467194in"}
 -   Set the default realm to MYLAB.LOCAL and point to the KDC and admin
     server on VM1. The configuration should match what you set on VM1.
 
-> ![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image13.png){width="4.469373359580053in"
-> height="0.21878062117235345in"}
->
-> ![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image14.png){width="4.557608267716535in"
-> height="2.103511592300962in"}
+![image](https://github.com/user-attachments/assets/671cb06a-f52f-44dc-a150-33d981fdede0)
 
 **Step 5: Test Kerberos Authentication**
 
@@ -199,8 +188,8 @@ height="0.44797900262467194in"}
 
 *kinit <testuser@MYLAB.LOCAL>*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image15.png){width="6.094600831146106in"
-height="1.5939720034995626in"}
+![image](https://github.com/user-attachments/assets/b191bb16-7203-4ed5-813b-96241ff7780a)
+
 
 -   Enter the password you set for testuser.
 
@@ -213,8 +202,7 @@ height="1.5939720034995626in"}
 
 *klist*
 
-![](vertopal_041ff26734c04cad99f069a7b94749d5/media/image16.png){width="6.063346456692913in"
-height="1.531463254593176in"}
+![image](https://github.com/user-attachments/assets/af53c1d1-f400-4d46-89da-81109056a76f)
 
 -   You should see details about the ticket, such as the principal and
     expiration time, confirming successful Kerberos authentication.
