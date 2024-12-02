@@ -1,9 +1,6 @@
 
 
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME:  VICENTE, RUSSEL C. | DATE PERFORMED: 21 NOVEMBER 2024 |   |
-| Section:  IDC2 | DATE SUBMITTED: 21 NOVEMBER 2024 |  |
+![image](https://github.com/user-attachments/assets/7fffadd3-6d38-452a-9038-2b21dfa58b55)
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
