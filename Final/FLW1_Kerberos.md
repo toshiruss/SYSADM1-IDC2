@@ -1,18 +1,5 @@
-+----------------------------------+----------------------------+-----+
-| ![](vertopal_                    |                            |     |
-| 041ff26734c04cad99f069a7b94749d5 |                            |     |
-| /media/image1.png){width="2.4in" |                            |     |
-| height="0.5881944444444445in"}   |                            |     |
-|                                  |                            |     |
-| SCHOOL OF INFORMATION AND        |                            |     |
-| TECHNOLOGY                       |                            |     |
-+----------------------------------+----------------------------+-----+
-| NAME: VICENTE, RUSSEL C.         | DATE PERFORMED: 14 NOV     | /   |
-|                                  | 2024                       | 50  |
-+----------------------------------+----------------------------+-----+
-| Section:IDC2                     | DATE SUBMITTED: 14 NOV     |     |
-|                                  | 2024                       |     |
-+----------------------------------+----------------------------+-----+
+![image](https://github.com/user-attachments/assets/bfd4a60c-b5ea-4a0c-86a8-29defcb4efdd)
+
 
 # SYSADM1 -- Kerberos Lab Activity: A step-by-step Guide
 
