@@ -18,6 +18,7 @@ The network’s potential bottlenecks and scalability concerns center around the
 Proposed Network Design:
 
 ![image](https://github.com/user-attachments/assets/8c257aef-8a20-461a-a747-04b6e550300c)
+
 Network Analysis
 
      Our design addresses potential bottlenecks by implementing load balancing and failover through two ISR routers ensuring that network traffic is evenly distributed and redundancy is maintained. The dual firewalls mitigate security risks by providing robust protection against external threats while managing traffic between internal and external networks. Capacity limitations are minimized by segregating traffic into VLANs, reducing congestion within critical network areas.
@@ -35,6 +36,7 @@ Proposed Design
 •	Redundant connections between routers, switches, and firewalls to eliminate single points of failure. This design is visually represented in the network diagram and comes with a clear implementation strategy.
 Evaluation and Justification
 The design is cost-effective, balancing advanced features with practicality. While it incorporates high-performance hardware and redundancy, it avoids unnecessary complexity. The segmentation of network functions into VLANs improves traffic efficiency and security. The cost and complexity of maintaining redundant links and firewalls are justified by the significant reduction in downtime and enhanced reliability they provide. Overall, the proposed solution ensures optimal performance, security, and scalability for both current and future requirements.
+
 
 
 
