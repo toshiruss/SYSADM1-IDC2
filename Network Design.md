@@ -1,19 +1,5 @@
-+----------------------------------+----------------------------+------+
-| ![](vertopal_                    |                            |      |
-| 90d38de71f6a446b852a3c8626fbadd2 |                            |      |
-| /media/image1.png){width="2.4in" |                            |      |
-| height="0.5881944444444445in"}   |                            |      |
-|                                  |                            |      |
-| SCHOOL OF INFORMATION AND        |                            |      |
-| TECHNOLOGY                       |                            |      |
-+==================================+============================+======+
-| NAME: VICENTE, RUSSEL            | DATE PERFORMED: 28         | /50  |
-|                                  | NOVEMBER 2024              |      |
-| CRUZ, RODOLFO FRANCO             |                            |      |
-+----------------------------------+----------------------------+------+
-| Section: IDC2                    | DATE SUBMITTED: 05         |      |
-|                                  | DECEMBER 2024              |      |
-+----------------------------------+----------------------------+------+
+![image](https://github.com/user-attachments/assets/a490d7c0-eaee-479a-82f3-4158da31f107)
+
 
 **Part 2. Network Scalability Analysis**
 
@@ -25,8 +11,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_90d38de71f6a446b852a3c8626fbadd2/media/image2.webp){width="5.049305555555556in"
-height="3.8229166666666665in"}
+![image](https://github.com/user-attachments/assets/1bd5146d-1c86-471f-b19b-15739cb91537)
+
 
 > The network's potential bottlenecks and scalability concerns center
 > around the edge router, the firewall and the Layer 2 switches. The
@@ -43,8 +29,8 @@ height="3.8229166666666665in"}
 
 Proposed Solution:
 
-![](vertopal_90d38de71f6a446b852a3c8626fbadd2/media/image3.png){width="7.027083333333334in"
-height="4.309027777777778in"}
+![image](https://github.com/user-attachments/assets/8cc8518c-7e42-486d-83b1-7772e78bc05e)
+
 
 **Network Analysis**
 
