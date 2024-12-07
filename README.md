@@ -1,2 +1,7 @@
 # SYSADM1-IDC2
-This is my Portfolio in our subject System Administration.
+
+The uploaded folders contain a number of resources and materials centered on such themes as system infrastructure, authentication mechanisms, and service management. The primary areas encompass file systems, service management in Windows and Linux, and physical infrastructure basics. As mentioned, these materials help in understanding IT management systems and provide required architecture for implementation, combining theoretical studies and practical exercises in a well-balanced manner.
+
+Furthermore, the bundle also contains files on git systems and kerberos authentication, which are currently important for it flows. Also, there are mentions of quizzes and assignments which point to the academic inclusions of that content. Such inclusion of visual resources renders the possibility that some subjects may be supplemented by graphical illustrations which are useful in bringing out the ideas clearly, thus making this compilation suitable for educational or professional requirements.
+
+Throughout the project, GitHub was used to commit and manage the files, enabling seamless collaboration and efficient version control. This approach ensured that all team members could contribute effectively while maintaining an organized workflow. By leveraging GitHub’s tools, the project benefited from improved file tracking and streamlined updates, reinforcing the importance of modern version control systems in professional and academic settings.
