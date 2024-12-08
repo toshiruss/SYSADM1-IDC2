@@ -1,174 +1,96 @@
-+-----------------------+-----------------------+-----------------------+
-| ![](vert              |                       |                       |
-| opal_cc900386cdaf41e7 |                       |                       |
-| aeaa799f443ddf76/medi |                       |                       |
-| a/image1.png){width=" |                       |                       |
-| 2.3958333333333335in" |                       |                       |
-| height="0             |                       |                       |
-| .5833333333333334in"} |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| TECHNOLOGY            |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: VICENTE,      |                       |                       |
-| > RUSSEL C.           |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > SECTION: IDC2       | > DATE SUBMITTED:08   |                       |
-|                       | > DECEMBER 2024       |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/959eb410-1ba7-4d30-a236-a424cbfd0b4c)
+
 
 **SYSADM1 PORTFOLIO**
 
 **Table of Contents**
 
-+-----------------------+-----------------------+-----------------------+
-| > **Name of           | > **Date of           | > **Page No.**        |
-| > Activities**        | > Activity**          |                       |
-+=======================+=======================+=======================+
-| > **First Grading**   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              | > 09/12/24            | > 3                   |
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > FGE_A1 Physical     | > 08/29/24            | > 4                   |
-| > Infrastructure      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > FGE_LW1 Creating    | > 08/22/24            | > 5                   |
-| > File Systems        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > FGE_LW3 Managing    | > 08/29/24            | > 6                   |
-| > Services in Windows |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > FGE_LW4 Managing    | > 09/12/24            | > 7                   |
-| > Services in Linux   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > First Grading Exam  | > 09/19/24            | > 8                   |
-+-----------------------+-----------------------+-----------------------+
-| > **Midterms**        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/6931e27e-dab8-4068-b4ca-19a6f71a988e)
 
-+-----------------------------------+-----------------------------------+
-| > System Administration           | INSTRUCTOR: Ms. Katherine Reyes   |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
 
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+=======================+=======================+=======================+
-| > SYSADM1 -           | > 10/08/24            | > 9                   |
-| > EVALUATING END USER |                       |                       |
-| > AGREEMENT           |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > SYSADM1 - WEB       | > 10/10/24            | > 10                  |
-| > SERVER MONITORING   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Midterm Exam        | > 11/07/24            | > 11                  |
-+-----------------------+-----------------------+-----------------------+
-| > **Finals**          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quizzes             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Quiz 1              | > 11/21/24            | > 12                  |
-+-----------------------+-----------------------+-----------------------+
-| > Other Activities    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > FLW1_Kerberos       | > 11/14/24            | > 13                  |
-+-----------------------+-----------------------+-----------------------+
-| > FLW2 Git            | > 11/21/24            | > 14                  |
-+-----------------------+-----------------------+-----------------------+
-| > Final Exam          |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Course Reflection   | > 12/08/24            | > 15-16               |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/29a9c967-d2e1-45d8-910f-1b1f9ba81536)
 
 Page **2** of **16**
 
 > **Screenshots of Quizzes, Exams, and Activities. Quiz 1:**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image2.png){width="2.9791666666666665in"
-> height="3.9583333333333335in"}
+![image](https://github.com/user-attachments/assets/6b46d73d-9e05-4115-9aa7-5b1f8ca151d4)
 
 Page **3** of **16**
 
 > **FGE_A1 Physical Infrastructure**
 
-![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image3.png){width="7.0in"
-height="7.344443350831146in"}
+![image](https://github.com/user-attachments/assets/1bcf08b4-6a4a-4cfa-b067-958a3dda40c8)
 
 Page **4** of **16**
 
 > **FGE_LW1 Creating File Systems**
 
-![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image4.png){width="6.958333333333333in"
-height="7.365277777777778in"}
+![image](https://github.com/user-attachments/assets/7359a4f9-fb33-4191-9365-b0934644c528)
+
 
 Page **5** of **16**
 
 > **FGE_LW3 Managing Services in Windows**
 
-![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image5.png){width="7.0in"
-height="7.395833333333333in"}
+![image](https://github.com/user-attachments/assets/887ac4cd-119e-4f6f-8b83-c4c852246e43)
+
 
 Page **6** of **16**
 
 > **FGE_LW4 Managing Services in Linux**
 
-![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image6.png){width="6.9902766841644794in"
-height="6.895832239720035in"}
+![image](https://github.com/user-attachments/assets/54018617-9c53-4f5f-a327-c7636e4ab96c)
+
 
 Page **7** of **16**
 
 > **First Grading Exam**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image7.png){width="5.083333333333333in"
-> height="7.083333333333333in"}
+![image](https://github.com/user-attachments/assets/4ae1fe69-d49f-4758-9eb4-99975fecd423)
+
 
 Page **8** of **16**
 
 > **Midterms:**\
 > **SYSADM1 - EVALUATING END USER AGREEMENT**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image8.png){width="5.270833333333333in"
-> height="6.488888888888889in"}
+![image](https://github.com/user-attachments/assets/6f9dfc0e-d7bb-41bf-8731-eb4618b2680d)
+
 
 Page **9** of **16**
 
 > **SYSADM1 - WEB SERVER MONITORING**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image9.png){width="5.0in"
-> height="4.927777777777778in"}
+![image](https://github.com/user-attachments/assets/ddbfff0a-503b-4185-a8b7-ff7648564fee)
+
 
 Page **10** of **16**
 
 > **Midterm Exam**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image10.png){width="5.041666666666667in"
-> height="7.80138779527559in"}
+![image](https://github.com/user-attachments/assets/8dec3274-eeaa-4249-bd5e-b3450205f1c2)
+
 
 Page **11** of **16**
 
 > **Finals:**\
 > **Quiz 1**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image11.png){width="6.634722222222222in"
-> height="7.520833333333333in"}
+![image](https://github.com/user-attachments/assets/fdd97eb0-c30d-422f-84b6-d3f428fd36ea)
 
 Page **12** of **16**
 
 > **FLW1_Kerberos**
 >
-> ![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image12.png){width="6.854166666666667in"
-> height="7.384721128608924in"}
+![image](https://github.com/user-attachments/assets/e8aa142e-6723-4863-b43e-ff2787a1370b)
 
 Page **13** of **16**
 
 > **FLW2 Git**
 
-![](vertopal_cc900386cdaf41e7aeaa799f443ddf76/media/image13.png){width="6.958333333333333in"
-height="7.365277777777778in"}
+![image](https://github.com/user-attachments/assets/be23b2d2-3bb0-4639-a74d-ca90090c3848)
+
 
 Page **14** of **16**
 
